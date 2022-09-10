@@ -1,0 +1,36 @@
+/* tag{
+  proprietà:valore;
+  proprietà:valore;
+} */
+header{
+  background-color: lightgrey;
+}
+hr{
+  border-color: gold;
+  border-width: medium;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+h1{
+  text-align: center;
+}
+h3{
+  color: gold;
+}
+h4{
+  color: black;
+}
+
+main{
+  padding: 10px;
+}
+
+footer{
+  color: green;
+  font-size: 10px;
+  text-align: center;
+}
